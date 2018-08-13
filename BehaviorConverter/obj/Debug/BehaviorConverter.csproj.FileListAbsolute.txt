@@ -1,0 +1,262 @@
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\data\Addition.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\data\dat0.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\data\dat1.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\data\EquipmentSets.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\bannednames.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\texture\dark_fire.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\texture\firey_floor.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\UnlockedAccounts.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\log4net_wServer.config
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\wServer.cfg
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\BehaviorDb.Avatar.cs
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\BehaviorDb.Avatar - fixed.cs
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\BehaviorDb.Mountain.cs
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\BehaviorConverter.exe.config
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\BehaviorConverter.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\BehaviorConverter.pdb
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\db.dll
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\wServer.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\MySql.Data.dll
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\log4net.dll
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\DungeonGen.dll
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\Ionic.ZLib.dll
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\RotMG.Common.dll
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\db.pdb
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\wServer.pdb
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\log4net.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\bin\Debug\DungeonGen.pdb
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\obj\Debug\BehaviorConverter.csprojResolveAssemblyReference.cache
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\obj\Debug\BehaviorConverter.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\BehaviorConverter\obj\Debug\BehaviorConverter.pdb
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\data\Addition.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\data\dat0.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\data\dat1.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\data\EquipmentSets.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\bannednames.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\texture\dark_fire.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\texture\firey_floor.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\texture\fire_mystic_shot.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\texture\forgotten_archmage_of_flame.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\texture\staff_of_the_abyss.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\UnlockedAccounts.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\log4net_wServer.config
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\wServer.cfg
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\BehaviorDb.Avatar.cs
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\BehaviorDb.Avatar - fixed.cs
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\BehaviorDb.Mountain.cs
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\BehaviorConverter.exe.config
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\BehaviorConverter.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\BehaviorConverter.pdb
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\db.dll
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\wServer.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\MySql.Data.dll
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\log4net.dll
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\Newtonsoft.Json.dll
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\DungeonGen.dll
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\BouncyCastle.Crypto.dll
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\Ionic.ZLib.dll
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\RotMG.Common.dll
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\db.pdb
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\log4net.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\Newtonsoft.Json.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\DungeonGen.pdb
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\obj\Debug\BehaviorConverter.csprojResolveAssemblyReference.cache
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\obj\Debug\BehaviorConverter.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\obj\Debug\BehaviorConverter.pdb
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\BehaviorConverter\bin\Debug\wServer.pdb
+F:\Cake's Domain\BehaviorConverter\bin\Debug\data\Addition.xml
+F:\Cake's Domain\BehaviorConverter\bin\Debug\data\dat0.xml
+F:\Cake's Domain\BehaviorConverter\bin\Debug\data\dat1.xml
+F:\Cake's Domain\BehaviorConverter\bin\Debug\data\EquipmentSets.xml
+F:\Cake's Domain\BehaviorConverter\bin\Debug\bannednames.txt
+F:\Cake's Domain\BehaviorConverter\bin\Debug\texture\dark_fire.png
+F:\Cake's Domain\BehaviorConverter\bin\Debug\texture\firey_floor.png
+F:\Cake's Domain\BehaviorConverter\bin\Debug\texture\fire_mystic_shot.png
+F:\Cake's Domain\BehaviorConverter\bin\Debug\texture\forgotten_archmage_of_flame.png
+F:\Cake's Domain\BehaviorConverter\bin\Debug\texture\staff_of_the_abyss.png
+F:\Cake's Domain\BehaviorConverter\bin\Debug\UnlockedAccounts.txt
+F:\Cake's Domain\BehaviorConverter\bin\Debug\log4net_wServer.config
+F:\Cake's Domain\BehaviorConverter\bin\Debug\wServer.cfg
+F:\Cake's Domain\BehaviorConverter\bin\Debug\BehaviorDb.Avatar.cs
+F:\Cake's Domain\BehaviorConverter\bin\Debug\BehaviorDb.Avatar - fixed.cs
+F:\Cake's Domain\BehaviorConverter\bin\Debug\BehaviorDb.Mountain.cs
+F:\Cake's Domain\BehaviorConverter\bin\Debug\BehaviorConverter.exe.config
+F:\Cake's Domain\BehaviorConverter\bin\Debug\BehaviorConverter.exe
+F:\Cake's Domain\BehaviorConverter\bin\Debug\BehaviorConverter.pdb
+F:\Cake's Domain\BehaviorConverter\bin\Debug\db.dll
+F:\Cake's Domain\BehaviorConverter\bin\Debug\wServer.exe
+F:\Cake's Domain\BehaviorConverter\bin\Debug\MySql.Data.dll
+F:\Cake's Domain\BehaviorConverter\bin\Debug\log4net.dll
+F:\Cake's Domain\BehaviorConverter\bin\Debug\Newtonsoft.Json.dll
+F:\Cake's Domain\BehaviorConverter\bin\Debug\DungeonGen.dll
+F:\Cake's Domain\BehaviorConverter\bin\Debug\BouncyCastle.Crypto.dll
+F:\Cake's Domain\BehaviorConverter\bin\Debug\Ionic.ZLib.dll
+F:\Cake's Domain\BehaviorConverter\bin\Debug\RotMG.Common.dll
+F:\Cake's Domain\BehaviorConverter\bin\Debug\db.pdb
+F:\Cake's Domain\BehaviorConverter\bin\Debug\wServer.pdb
+F:\Cake's Domain\BehaviorConverter\bin\Debug\log4net.xml
+F:\Cake's Domain\BehaviorConverter\bin\Debug\Newtonsoft.Json.xml
+F:\Cake's Domain\BehaviorConverter\bin\Debug\DungeonGen.pdb
+F:\Cake's Domain\BehaviorConverter\obj\Debug\BehaviorConverter.csprojResolveAssemblyReference.cache
+F:\Cake's Domain\BehaviorConverter\obj\Debug\BehaviorConverter.exe
+F:\Cake's Domain\BehaviorConverter\obj\Debug\BehaviorConverter.pdb
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\data\Addition.xml
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\data\dat0.xml
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\data\dat1.xml
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\data\EquipmentSets.xml
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\bannednames.txt
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\texture\dark_fire.png
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\texture\firey_floor.png
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\texture\fire_mystic_shot.png
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\texture\forgotten_archmage_of_flame.png
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\texture\staff_of_the_abyss.png
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\UnlockedAccounts.txt
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\log4net_wServer.config
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\wServer.cfg
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\BehaviorDb.Avatar.cs
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\BehaviorDb.Avatar - fixed.cs
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\BehaviorDb.Mountain.cs
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\BehaviorConverter.exe.config
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\BehaviorConverter.exe
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\BehaviorConverter.pdb
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\db.dll
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\wServer.exe
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\MySql.Data.dll
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\log4net.dll
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\Newtonsoft.Json.dll
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\DungeonGen.dll
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\BouncyCastle.Crypto.dll
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\Ionic.ZLib.dll
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\RotMG.Common.dll
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\db.pdb
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\wServer.pdb
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\log4net.xml
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\Newtonsoft.Json.xml
+G:\ezpserver\Cake's Domain\BehaviorConverter\bin\Debug\DungeonGen.pdb
+G:\ezpserver\Cake's Domain\BehaviorConverter\obj\Debug\BehaviorConverter.csprojResolveAssemblyReference.cache
+G:\ezpserver\Cake's Domain\BehaviorConverter\obj\Debug\BehaviorConverter.exe
+G:\ezpserver\Cake's Domain\BehaviorConverter\obj\Debug\BehaviorConverter.pdb
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\data\Addition.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\data\dat0.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\data\dat1.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\data\EquipmentSets.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\bannednames.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\texture\dark_fire.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\texture\firey_floor.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\UnlockedAccounts.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\log4net_wServer.config
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\wServer.cfg
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\BehaviorDb.Avatar.cs
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\BehaviorDb.Avatar - fixed.cs
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\BehaviorDb.Mountain.cs
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\BehaviorConverter.exe.config
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\BehaviorConverter.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\BehaviorConverter.pdb
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\db.dll
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\wServer.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\MySql.Data.dll
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\log4net.dll
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\DungeonGen.dll
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\Ionic.ZLib.dll
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\RotMG.Common.dll
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\db.pdb
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\db.dll.config
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\wServer.pdb
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\wServer.exe.config
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\log4net.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\bin\Debug\DungeonGen.pdb
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\obj\Debug\BehaviorConverter.csprojAssemblyReference.cache
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\obj\Debug\BehaviorConverter.csproj.CoreCompileInputs.cache
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\obj\Debug\BehaviorConverter.csproj.CopyComplete
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\obj\Debug\BehaviorConverter.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\BehaviorConverter\obj\Debug\BehaviorConverter.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\data\Addition.xml
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\data\dat0.xml
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\data\dat1.xml
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\data\EquipmentSets.xml
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\bannednames.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\texture\dark_fire.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\texture\firey_floor.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\UnlockedAccounts.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\log4net_wServer.config
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\wServer.cfg
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\BehaviorDb.Avatar.cs
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\BehaviorDb.Avatar - fixed.cs
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\BehaviorDb.Mountain.cs
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\BehaviorConverter.exe.config
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\BehaviorConverter.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\BehaviorConverter.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\db.dll
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\wServer.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\MySql.Data.dll
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\log4net.dll
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\DungeonGen.dll
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\Ionic.ZLib.dll
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\RotMG.Common.dll
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\db.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\db.dll.config
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\wServer.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\wServer.exe.config
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\bin\Debug\DungeonGen.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\obj\Debug\BehaviorConverter.csproj.CoreCompileInputs.cache
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\obj\Debug\BehaviorConverter.csproj.CopyComplete
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\obj\Debug\BehaviorConverter.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\obj\Debug\BehaviorConverter.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\BehaviorConverter\obj\Debug\BehaviorConverter.csprojAssemblyReference.cache
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\data\Addition.xml
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\data\dat0.xml
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\data\dat1.xml
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\data\EquipmentSets.xml
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\bannednames.txt
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\texture\dark_fire.png
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\texture\firey_floor.png
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\UnlockedAccounts.txt
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\log4net_wServer.config
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\wServer.cfg
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\BehaviorDb.Avatar.cs
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\BehaviorDb.Avatar - fixed.cs
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\BehaviorDb.Mountain.cs
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\BehaviorConverter.exe.config
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\BehaviorConverter.exe
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\BehaviorConverter.pdb
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\db.dll
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\wServer.exe
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\MySql.Data.dll
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\log4net.dll
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\DungeonGen.dll
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\Ionic.ZLib.dll
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\RotMG.Common.dll
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\db.pdb
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\db.dll.config
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\wServer.pdb
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\wServer.exe.config
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\bin\Debug\DungeonGen.pdb
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\obj\Debug\BehaviorConverter.csprojAssemblyReference.cache
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\obj\Debug\BehaviorConverter.csproj.CoreCompileInputs.cache
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\obj\Debug\BehaviorConverter.csproj.CopyComplete
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\obj\Debug\BehaviorConverter.exe
+C:\Users\developper\Documents\Projets\rotmg\BehaviorConverter\obj\Debug\BehaviorConverter.pdb

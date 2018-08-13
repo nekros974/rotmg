@@ -1,0 +1,1055 @@
+2016-01-24 10:01:32,262 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 10:05:13,632 [6] ERROR Server - System.Net.HttpListenerException (0x80004005): I/U-operasjonen er blitt avsluttet på grunn av en trådavslutning eller en forespørsel fra et program
+   ved System.Net.HttpResponseStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   ved server.app.getLanguageStrings.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\app\getLanguageStrings.cs:linje 37
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 11:51:14,747 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 12:15:43,105 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 12:26:58,265 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 13:16:08,822 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 13:17:27,227 [6] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved Utils.<>c.<FromCommaSepString32>b__15_0(String _) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 181
+   ved System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   ved System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   ved System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   ved Utils.FromCommaSepString32(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 181
+   ved server.account.playFortuneGame.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\playFortuneGame.cs:linje 44
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 13:18:02,545 [6] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved Utils.<>c.<FromCommaSepString32>b__15_0(String _) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 181
+   ved System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   ved System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   ved System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   ved Utils.FromCommaSepString32(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 181
+   ved server.account.playFortuneGame.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\playFortuneGame.cs:linje 44
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 13:40:45,629 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 13:44:02,332 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 13:46:19,065 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 13:48:09,226 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 14:21:50,973 [13] ERROR Server - Not supported server detected: 
+Host: 25.87.26.172
+Port: 2050
+2016-01-24 14:35:50,797 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 14:35:54,010 [6] ERROR Server - Not supported server detected: 
+Host: 25.87.26.172
+Port: 2050
+2016-01-24 14:45:50,396 [10] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved Utils.<>c.<FromCommaSepString32>b__15_0(String _) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 181
+   ved System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   ved System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   ved System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   ved Utils.FromCommaSepString32(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 181
+   ved server.account.playFortuneGame.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\playFortuneGame.cs:linje 44
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 14:46:36,382 [9] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved server.account.purchaseMysteryBox.GetAwards(String items) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 130
+   ved server.account.purchaseMysteryBox.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 88
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 14:54:47,053 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 15:32:01,489 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 15:32:39,208 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 15:32:46,525 [6] ERROR Server - Not supported server detected: 
+Host: 25.87.26.172
+Port: 2050
+2016-01-24 15:32:51,337 [6] ERROR Server - Not supported server detected: 
+Host: 25.87.26.172
+Port: 2050
+2016-01-24 15:32:51,725 [3] ERROR Server - Not supported server detected: 
+Host: 25.87.26.172
+Port: 2050
+2016-01-24 15:32:54,124 [7] ERROR Server - Not supported server detected: 
+Host: 25.87.26.172
+Port: 2050
+2016-01-24 15:32:54,224 [6] ERROR Server - Not supported server detected: 
+Host: 25.87.26.172
+Port: 2050
+2016-01-24 15:32:55,624 [7] ERROR Server - Not supported server detected: 
+Host: 25.87.26.172
+Port: 2050
+2016-01-24 15:32:55,738 [6] ERROR Server - Not supported server detected: 
+Host: 25.87.26.172
+Port: 2050
+2016-01-24 15:47:15,455 [11] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved Utils.<>c.<FromCommaSepString32>b__15_0(String _) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 181
+   ved System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   ved System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   ved System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   ved Utils.FromCommaSepString32(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 181
+   ved server.account.playFortuneGame.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\playFortuneGame.cs:linje 44
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 15:47:23,803 [11] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved server.account.purchaseMysteryBox.GetAwards(String items) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 130
+   ved server.account.purchaseMysteryBox.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 88
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 15:55:20,196 [13] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved server.account.purchaseMysteryBox.GetAwards(String items) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 130
+   ved server.account.purchaseMysteryBox.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 88
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 15:55:31,691 [13] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved server.account.purchaseMysteryBox.GetAwards(String items) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 130
+   ved server.account.purchaseMysteryBox.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 88
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 15:55:35,570 [13] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved server.account.purchaseMysteryBox.GetAwards(String items) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 130
+   ved server.account.purchaseMysteryBox.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 88
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 15:57:28,911 [10] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved server.account.purchaseMysteryBox.GetAwards(String items) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 130
+   ved server.account.purchaseMysteryBox.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 88
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 16:00:18,367 [13] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved server.account.purchaseMysteryBox.GetAwards(String items) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 130
+   ved server.account.purchaseMysteryBox.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 88
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 16:04:01,460 [14] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved server.account.purchaseMysteryBox.GetAwards(String items) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 130
+   ved server.account.purchaseMysteryBox.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 88
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 16:04:06,878 [14] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved server.account.purchaseMysteryBox.GetAwards(String items) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 130
+   ved server.account.purchaseMysteryBox.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\purchaseMysteryBox.cs:linje 88
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 16:19:51,505 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 16:33:57,583 [12] ERROR Server - System.FormatException: Inndatastrengen hadde ugyldig format.
+   ved System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ved System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ved System.Int32.Parse(String s, NumberStyles style)
+   ved Utils.FromString(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 108
+   ved Utils.<>c.<FromCommaSepString32>b__15_0(String _) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 181
+   ved System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   ved System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   ved System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   ved Utils.FromCommaSepString32(String x) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\db\Utils.cs:linje 181
+   ved server.account.playFortuneGame.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\account\playFortuneGame.cs:linje 44
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 16:45:04,459 [11] ERROR Server - MySql.Data.MySqlClient.MySqlException (0x80004005): Invalid attempt to access a field before calling Read()
+   ved MySql.Data.MySqlClient.ResultSet.get_Item(Int32 index)
+   ved MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   ved MySql.Data.MySqlClient.MySqlDataReader.GetDateTime(Int32 i)
+   ved MySql.Data.MySqlClient.MySqlDataReader.GetDateTime(String column)
+   ved server.char.fame.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\char\fame.cs:linje 33
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 16:45:06,147 [11] ERROR Server - MySql.Data.MySqlClient.MySqlException (0x80004005): Invalid attempt to access a field before calling Read()
+   ved MySql.Data.MySqlClient.ResultSet.get_Item(Int32 index)
+   ved MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   ved MySql.Data.MySqlClient.MySqlDataReader.GetDateTime(Int32 i)
+   ved MySql.Data.MySqlClient.MySqlDataReader.GetDateTime(String column)
+   ved server.char.fame.HandleRequest() i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\char\fame.cs:linje 33
+   ved server.RequestHandler.HandleRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\RequestHandlers.cs:linje 38
+   ved server.Program.ProcessRequest(HttpListenerContext context) i C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\server\Program.cs:linje 156
+2016-01-24 17:02:40,328 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 17:08:19,393 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-01-24 17:16:42,834 [9] ERROR Server - Not supported server detected: 
+Host: 25.87.26.172
+Port: 2050
+2016-06-23 21:04:17,760 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-23 21:05:53,415 [3] ERROR Server - Not supported server detected: 
+Host: 25.87.26.172
+Port: 2050
+2016-06-23 21:05:53,568 [3] ERROR Server - System.InvalidOperationException: There was an error generating the XML document. ---> System.Net.HttpListenerException: An operation was attempted on a nonexistent network connection
+   at System.Net.HttpResponseStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Xml.XmlUtf8RawTextWriter.FlushBuffer()
+   at System.Xml.XmlUtf8RawTextWriter.RawText(Char* pSrcBegin, Char* pSrcEnd)
+   at System.Xml.XmlUtf8RawTextWriter.RawText(String s)
+   at System.Xml.XmlUtf8RawTextWriter.WriteStartElement(String prefix, String localName, String ns)
+   at System.Xml.XmlUtf8RawTextWriterIndent.WriteStartElement(String prefix, String localName, String ns)
+   at System.Xml.XmlWellFormedWriter.WriteStartElement(String prefix, String localName, String ns)
+   at System.Xml.XmlWriter.WriteElementString(String localName, String ns, String value)
+   at System.Xml.Serialization.XmlSerializationWriter.WriteElementString(String localName, String ns, String value, XmlQualifiedName xsiType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterChars.Write7_Guild(String n, String ns, Guild o, Boolean isNullable, Boolean needType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterChars.Write11_Account(String n, String ns, Account o, Boolean isNullable, Boolean needType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterChars.Write17_Chars(String n, String ns, Chars o, Boolean isNullable, Boolean needType)
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterChars.Write18_Chars(Object o)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces, String encodingStyle, String id)
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces)
+   at server.char.list.HandleRequest() in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\char\list.cs:line 106
+   at server.RequestHandler.HandleRequest(HttpListenerContext context) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\RequestHandlers.cs:line 38
+   at server.Program.ProcessRequest(HttpListenerContext context) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\Program.cs:line 156
+2016-06-23 21:07:22,988 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 07:39:51,468 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 07:43:36,310 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 07:45:01,057 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 07:45:47,378 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 07:47:01,485 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 07:48:58,968 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 07:49:43,329 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 07:52:05,231 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 07:54:58,353 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 07:56:11,284 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:10:12,947 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:13:52,671 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:23:31,529 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:25:12,705 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:26:30,117 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:42:23,942 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:43:05,672 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:44:06,814 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:47:08,530 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:48:05,762 [11] ERROR Server - Not supported server detected: 
+Host: 25.15.200.117
+Port: 2050
+2016-06-24 08:48:12,753 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:49:06,749 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:50:06,214 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:51:14,240 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:52:08,768 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 08:52:59,071 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 14:30:22,077 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 14:31:23,198 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 14:31:54,972 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 14:34:00,043 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 14:35:15,113 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 14:35:56,512 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 14:36:42,410 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 14:39:35,948 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 14:40:08,399 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 15:02:46,923 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 15:16:40,135 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 18:09:37,664 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 18:11:46,136 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 18:13:07,781 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 18:45:20,475 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 19:18:19,241 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 19:21:14,369 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 19:27:04,480 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 20:10:10,484 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 20:41:33,581 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 20:58:05,322 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 21:07:41,117 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 22:21:32,936 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 22:24:17,979 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 22:28:52,284 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 22:53:05,277 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 22:54:35,845 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-24 22:55:38,868 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 10:14:46,825 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 10:32:03,484 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 10:34:31,565 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 10:35:53,415 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 10:37:28,134 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 10:37:50,679 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 10:38:58,853 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 10:39:47,913 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 10:41:32,113 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 10:58:23,024 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:01:55,849 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:03:52,826 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:13:07,528 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:14:20,979 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:15:21,051 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:15:57,606 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:17:03,271 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:17:47,991 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:18:18,974 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:37:41,818 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:42:59,582 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:51:49,139 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:55:48,572 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 11:58:56,163 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 12:01:15,671 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 12:03:30,098 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 12:06:39,251 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 12:24:39,999 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 12:25:18,136 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 12:26:57,040 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 12:32:27,619 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 13:55:03,318 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 13:57:56,239 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 14:04:38,716 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 14:05:40,929 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 14:08:51,608 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 14:10:23,645 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 14:16:30,555 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 14:21:17,738 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 14:21:30,426 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-25 14:22:01,654 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-26 10:36:53,689 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-26 10:41:11,820 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-26 10:43:39,112 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-26 10:45:38,193 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-26 10:46:33,190 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-26 10:47:48,106 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-26 10:48:58,880 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-26 10:49:38,558 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-26 10:50:34,736 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-26 10:51:17,897 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-26 10:52:17,197 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-26 11:01:29,360 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-26 11:04:00,058 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 08:50:25,513 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 10:09:59,944 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 10:09:59,995 [Entry] WARN  db.data.XmlData - 'Small Reaper Minion' and 'Big Reaper Minion' has the same ID of 0x136b!
+2016-06-28 10:10:50,727 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 10:14:34,806 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 10:15:41,846 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 18:34:21,739 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 18:42:53,880 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 19:10:30,463 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 19:19:15,493 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 19:30:41,389 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 19:34:51,809 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 19:36:39,154 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 19:39:28,676 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 19:41:19,572 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 19:43:19,855 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 19:46:44,106 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 19:49:01,501 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 20:03:55,461 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 20:18:20,313 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 20:22:31,403 [7] WARN  Server - RemoteTexture not found: forgotten_archmage_of_flame
+2016-06-28 20:22:31,409 [7] WARN  Server - RemoteTexture not found: forgotten_archmage_of_flame
+2016-06-28 20:22:39,278 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 20:35:26,416 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 20:51:41,854 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-28 21:02:05,589 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 08:34:51,778 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 08:35:55,127 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 09:14:50,237 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 09:22:34,768 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 09:32:07,484 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 09:38:41,660 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 09:41:12,384 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 09:48:47,936 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 11:20:47,534 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 11:20:49,230 [6] ERROR Server - Not supported server detected: 
+Host: 25.15.200.117
+Port: 2050
+2016-06-29 11:20:58,701 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 11:21:54,833 [6] ERROR Server - Not supported server detected: 
+Host: 25.15.200.117
+Port: 2050
+2016-06-29 11:22:24,535 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 11:23:46,086 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 11:24:29,743 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 11:26:44,738 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 11:38:53,540 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 11:39:45,746 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 11:42:03,127 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 11:50:00,939 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 11:54:13,540 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 12:02:54,658 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 12:02:54,739 [Entry] WARN  db.data.XmlData - 'Bow of Mystical Energy' and 'Bow of Fiery Terror' has the same ID of 0x09cc!
+2016-06-29 12:03:13,841 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 12:06:04,922 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 12:06:30,286 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 12:11:37,123 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 12:12:51,630 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 12:41:34,322 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 12:44:26,383 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 12:44:57,860 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 14:15:06,972 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 14:51:04,844 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 14:59:38,044 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 15:31:59,350 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 15:34:38,268 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 15:47:12,842 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 15:50:18,638 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 15:55:37,446 [11] ERROR Server - System.Net.HttpListenerException (0x80004005): An operation was attempted on a nonexistent network connection
+   at System.Net.HttpResponseStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.HttpListenerResponse.Dispose(Boolean disposing)
+   at System.Net.HttpListenerResponse.System.IDisposable.Dispose()
+   at System.Net.HttpListenerResponse.Close()
+   at server.Program.ProcessRequest(HttpListenerContext context) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\Program.cs:line 108
+2016-06-29 15:55:37,448 [11] ERROR Server - System.Net.HttpListenerException (0x80004005): An operation was attempted on a nonexistent network connection
+   at System.Net.HttpResponseStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.HttpListenerResponse.Dispose(Boolean disposing)
+   at System.Net.HttpListenerResponse.System.IDisposable.Dispose()
+   at System.Net.HttpListenerResponse.Close()
+   at server.Program.ProcessRequest(HttpListenerContext context) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\Program.cs:line 108
+2016-06-29 15:55:37,450 [11] ERROR Server - System.Net.HttpListenerException (0x80004005): An operation was attempted on a nonexistent network connection
+   at System.Net.HttpResponseStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.HttpListenerResponse.Dispose(Boolean disposing)
+   at System.Net.HttpListenerResponse.System.IDisposable.Dispose()
+   at System.Net.HttpListenerResponse.Close()
+   at server.Program.ProcessRequest(HttpListenerContext context) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\Program.cs:line 108
+2016-06-29 15:55:37,452 [11] ERROR Server - System.Net.HttpListenerException (0x80004005): An operation was attempted on a nonexistent network connection
+   at System.Net.HttpResponseStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.HttpListenerResponse.Dispose(Boolean disposing)
+   at System.Net.HttpListenerResponse.System.IDisposable.Dispose()
+   at System.Net.HttpListenerResponse.Close()
+   at server.Program.ProcessRequest(HttpListenerContext context) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\Program.cs:line 108
+2016-06-29 15:55:37,453 [11] ERROR Server - System.Net.HttpListenerException (0x80004005): An operation was attempted on a nonexistent network connection
+   at System.Net.HttpResponseStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.HttpListenerResponse.Dispose(Boolean disposing)
+   at System.Net.HttpListenerResponse.System.IDisposable.Dispose()
+   at System.Net.HttpListenerResponse.Close()
+   at server.Program.ProcessRequest(HttpListenerContext context) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\Program.cs:line 108
+2016-06-29 15:55:37,455 [11] ERROR Server - System.Net.HttpListenerException (0x80004005): An operation was attempted on a nonexistent network connection
+   at System.Net.HttpResponseStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.HttpListenerResponse.Dispose(Boolean disposing)
+   at System.Net.HttpListenerResponse.System.IDisposable.Dispose()
+   at System.Net.HttpListenerResponse.Close()
+   at server.Program.ProcessRequest(HttpListenerContext context) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\Program.cs:line 108
+2016-06-29 15:55:37,486 [11] ERROR Server - System.Net.HttpListenerException (0x80004005): An operation was attempted on a nonexistent network connection
+   at System.Net.HttpResponseStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.HttpListenerResponse.Dispose(Boolean disposing)
+   at System.Net.HttpListenerResponse.System.IDisposable.Dispose()
+   at System.Net.HttpListenerResponse.Close()
+   at server.Program.ProcessRequest(HttpListenerContext context) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\Program.cs:line 108
+2016-06-29 15:55:37,489 [11] ERROR Server - System.Net.HttpListenerException (0x80004005): An operation was attempted on a nonexistent network connection
+   at System.Net.HttpResponseStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.HttpListenerResponse.Dispose(Boolean disposing)
+   at System.Net.HttpListenerResponse.System.IDisposable.Dispose()
+   at System.Net.HttpListenerResponse.Close()
+   at server.Program.ProcessRequest(HttpListenerContext context) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\Program.cs:line 108
+2016-06-29 15:55:37,491 [11] ERROR Server - System.Net.HttpListenerException (0x80004005): An operation was attempted on a nonexistent network connection
+   at System.Net.HttpResponseStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.HttpListenerResponse.Dispose(Boolean disposing)
+   at System.Net.HttpListenerResponse.System.IDisposable.Dispose()
+   at System.Net.HttpListenerResponse.Close()
+   at server.Program.ProcessRequest(HttpListenerContext context) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\Program.cs:line 108
+2016-06-29 15:58:13,267 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 16:04:40,081 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 16:08:40,326 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 16:09:10,471 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 16:10:41,212 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 16:11:45,150 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 16:12:24,178 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 16:13:31,834 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 16:14:03,503 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 16:15:13,156 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 16:22:29,120 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 16:38:05,133 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 16:47:06,040 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 16:47:48,269 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 17:59:41,027 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 20:18:38,780 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 21:05:32,321 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-29 22:03:59,966 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 08:00:49,364 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 08:08:46,172 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 08:12:55,889 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 08:51:51,646 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 08:53:35,867 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 08:53:47,393 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 10:10:11,657 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 10:10:14,435 [6] ERROR Server - Not supported server detected: 
+Host: 54.241.208.233
+Port: 2050
+2016-06-30 10:10:26,071 [6] ERROR Server - Not supported server detected: 
+Host: 54.241.208.233
+Port: 2050
+2016-06-30 10:11:10,846 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 10:34:18,225 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 10:50:07,057 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 11:51:32,595 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 12:40:38,115 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 13:08:51,447 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 13:11:08,190 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 14:51:14,063 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 15:30:52,106 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 16:04:18,335 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-06-30 19:18:38,184 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-01 09:04:34,409 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-01 09:24:33,837 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-01 09:33:48,406 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-01 09:40:51,809 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-01 09:42:32,357 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-01 09:47:19,519 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-02 11:27:10,268 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-02 18:50:08,731 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 11:18:36,429 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 11:20:32,053 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 11:24:29,618 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 11:25:10,640 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 11:26:15,988 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 11:30:28,960 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 11:51:42,951 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 16:39:35,483 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 16:52:59,980 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 17:06:33,028 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 17:33:02,236 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 17:36:34,537 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 17:40:08,466 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 18:54:18,536 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 18:57:20,725 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 19:38:42,776 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-03 20:29:05,593 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 08:55:50,401 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 11:28:48,652 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 11:53:48,382 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 12:38:16,301 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 12:41:09,126 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 12:41:42,540 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 12:42:18,635 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 12:43:07,371 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 12:43:41,468 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 12:47:17,232 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:03:33,418 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:03:55,876 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:06:21,084 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:07:02,330 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:07:40,636 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:08:33,700 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:09:02,164 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:13:18,550 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:17:13,974 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:18:18,022 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:20:45,018 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:26:50,691 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:27:25,556 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:28:09,478 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:29:09,277 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:30:07,714 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:31:27,148 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:34:03,634 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:36:01,379 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:36:19,610 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:37:57,768 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:39:08,047 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:39:41,533 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 13:41:33,072 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 14:08:38,095 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 14:26:11,324 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 14:26:29,269 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 14:36:31,812 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 14:38:09,254 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 14:44:38,699 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 14:56:40,322 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 15:19:13,241 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 15:31:42,768 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 18:54:11,908 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 20:35:54,113 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-04 20:37:23,646 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-05 09:44:08,835 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-05 10:06:57,095 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-06 15:41:52,171 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-06 15:49:36,442 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-06 15:49:40,273 [6] ERROR Server - Not supported server detected: 
+Host: 25.15.200.117
+Port: 2050
+2016-07-07 15:04:47,931 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-07 15:09:24,694 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-07 15:11:41,136 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-07 15:11:55,031 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-07 15:18:28,872 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-08 16:47:12,959 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-09 09:34:16,632 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-09 09:36:59,173 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-09 09:43:05,771 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-09 09:48:06,369 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-09 09:54:54,279 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-09 09:54:54,320 [Entry] WARN  db.data.XmlData - 0x0234 and 0xc356 has the same name of Nerd!
+2016-07-09 09:55:40,992 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-09 09:59:55,327 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-10 11:46:42,474 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-10 11:53:45,289 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-10 11:54:19,101 [9] ERROR Server - Not supported server detected: 
+Host: 25.15.200.117
+Port: 2050
+2016-07-10 11:54:23,683 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-11 07:25:31,915 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-12 07:33:18,763 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-12 17:22:07,752 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-13 07:31:39,038 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-13 07:41:21,675 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-13 17:22:12,505 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-13 18:18:03,359 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-13 18:37:49,769 [11] ERROR Server - Not supported server detected: 
+Host: 25.15.200.117
+Port: 2050
+2016-07-13 18:42:39,119 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-13 20:38:14,953 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-13 20:57:21,206 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-13 21:03:52,846 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-13 21:10:35,858 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-13 21:13:18,761 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-14 21:21:49,771 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-14 21:21:49,857 [Entry] WARN  db.data.XmlData - 'Slime Knight Skin' and 'kekxd' has the same ID of 0x227c!
+2016-07-14 21:22:11,130 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-14 21:31:15,644 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-14 21:33:40,101 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-14 21:35:09,146 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-15 07:17:07,843 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-15 07:25:10,145 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-15 07:27:06,505 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-15 07:28:32,651 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-15 07:29:13,239 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-15 07:31:27,842 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-15 07:36:00,178 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-15 07:37:12,723 [6] ERROR Server - MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Parameter '@accid' must be defined.
+   at MySql.Data.MySqlClient.Statement.SerializeParameter(MySqlParameterCollection parameters, MySqlPacket packet, String parmName, Int32 parameterIndex)
+   at MySql.Data.MySqlClient.Statement.InternalBindParameters(String sql, MySqlParameterCollection parameters, MySqlPacket packet)
+   at MySql.Data.MySqlClient.Statement.BindParameters()
+   at MySql.Data.MySqlClient.PreparableStatement.Execute()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at db.Database.GetArenaLeaderboards(String type, Account acc) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\db\Database.cs:line 1099
+   at server.arena.getRecords.HandleRequest() in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\arena\getRecords.cs:line 30
+   at server.RequestHandler.HandleRequest(HttpListenerContext context) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\RequestHandlers.cs:line 38
+   at server.Program.ProcessRequest(HttpListenerContext context) in F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\server\Program.cs:line 156
+2016-07-15 16:39:17,583 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-16 11:25:14,112 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-16 11:43:28,091 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-16 11:43:38,281 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-16 12:06:37,306 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-16 12:09:13,501 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-16 12:14:03,049 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-07-16 12:23:14,428 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-12-30 09:28:06,214 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-12-30 09:43:32,601 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-12-30 09:55:25,690 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-12-30 09:58:00,783 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-12-30 10:02:53,522 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-12-30 10:10:29,407 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-12-30 21:05:10,506 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-12-30 21:05:15,739 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-12-30 21:24:48,347 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-12-30 21:26:30,086 [6] ERROR Server - System.FormatException: The specified string is not in the form required for an e-mail address.
+   at System.Net.Mail.MailAddressParser.ReadCfwsAndThrowIfIncomplete(String data, Int32 index)
+   at System.Net.Mail.MailAddressParser.ParseDomain(String data, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseAddress(String data, Boolean expectMultipleAddresses, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseAddress(String data)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.Message..ctor(String from, String to)
+   at System.Net.Mail.MailMessage..ctor(String from, String to)
+   at System.Net.Mail.MailMessage..ctor(String from, String to, String subject, String body)
+   at server.account.forgotPassword.HandleRequest() in G:\ezpserver\Cake's Domain\server\account\forgotPassword.cs:line 49
+   at server.RequestHandler.HandleRequest(HttpListenerContext context) in G:\ezpserver\Cake's Domain\server\RequestHandlers.cs:line 38
+   at server.Program.ProcessRequest(HttpListenerContext context) in G:\ezpserver\Cake's Domain\server\Program.cs:line 156
+2016-12-30 21:29:52,812 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2016-12-30 21:30:16,337 [3] ERROR Server - System.FormatException: The specified string is not in the form required for an e-mail address.
+   at System.Net.Mail.MailAddressParser.ReadCfwsAndThrowIfIncomplete(String data, Int32 index)
+   at System.Net.Mail.MailAddressParser.ParseDomain(String data, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseAddress(String data, Boolean expectMultipleAddresses, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseAddress(String data)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.Message..ctor(String from, String to)
+   at System.Net.Mail.MailMessage..ctor(String from, String to)
+   at System.Net.Mail.MailMessage..ctor(String from, String to, String subject, String body)
+   at server.account.forgotPassword.HandleRequest() in G:\ezpserver\Cake's Domain\server\account\forgotPassword.cs:line 49
+   at server.RequestHandler.HandleRequest(HttpListenerContext context) in G:\ezpserver\Cake's Domain\server\RequestHandlers.cs:line 38
+   at server.Program.ProcessRequest(HttpListenerContext context) in G:\ezpserver\Cake's Domain\server\Program.cs:line 156
+2017-01-01 10:54:50,656 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 11:54:46,238 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 11:56:19,861 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 12:06:35,857 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 12:09:38,343 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 12:10:53,690 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 12:12:16,408 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 12:13:23,049 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 12:36:19,180 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 12:43:57,779 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 12:45:21,037 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 12:59:06,019 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 13:00:52,351 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 13:12:00,983 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 13:14:24,186 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-01 13:16:54,484 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-02 21:55:51,107 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 09:57:43,383 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 10:20:27,684 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 10:20:27,725 [Entry] WARN  db.data.XmlData - 'Reaper Anchor' and 'HoneyScepter' has the same ID of 0x0136!
+2017-01-03 10:21:12,526 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 10:23:27,415 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 10:37:21,022 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 10:47:09,384 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 10:47:34,274 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 11:02:40,340 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 11:04:23,095 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 11:05:36,030 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 11:16:01,240 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 11:26:51,109 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 11:31:32,960 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 11:36:03,878 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 11:43:02,035 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 11:46:27,626 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 11:56:23,214 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 12:00:09,393 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 12:02:40,498 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 12:05:49,449 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 12:09:34,752 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 12:12:32,892 [7] ERROR Server - MySql.Data.MySqlClient.MySqlException (0x80004005): Invalid attempt to access a field before calling Read()
+   at MySql.Data.MySqlClient.ResultSet.get_Item(Int32 index)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetDateTime(Int32 i)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetDateTime(String column)
+   at server.char.fame.HandleRequest() in G:\ezpserver\Cake's Domain\server\char\fame.cs:line 33
+   at server.RequestHandler.HandleRequest(HttpListenerContext context) in G:\ezpserver\Cake's Domain\server\RequestHandlers.cs:line 38
+   at server.Program.ProcessRequest(HttpListenerContext context) in G:\ezpserver\Cake's Domain\server\Program.cs:line 156
+2017-01-03 12:25:57,978 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 12:25:58,057 [Entry] WARN  db.data.XmlData - 'Common Mystery Egg' and 'Divine Egg' has the same ID of 0x0cbd!
+2017-01-03 12:26:26,098 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 12:27:23,565 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 12:27:57,059 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 12:27:57,223 [Entry] ERROR Server - Port 8888 is occupied. Can't start listening...
+Press ESC to exit.
+2017-01-03 12:28:08,685 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 12:28:08,842 [Entry] ERROR Server - Port 8888 is occupied. Can't start listening...
+Press ESC to exit.
+2017-01-03 12:28:42,355 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 12:28:42,496 [Entry] ERROR Server - Port 8888 is occupied. Can't start listening...
+Press ESC to exit.
+2017-01-03 12:34:17,949 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-01-03 14:30:40,323 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-07-31 17:54:29,405 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-07-31 18:10:34,711 [11] ERROR Server - MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Parameter '@accid' must be defined.
+   à MySql.Data.MySqlClient.Statement.SerializeParameter(MySqlParameterCollection parameters, MySqlPacket packet, String parmName, Int32 parameterIndex)
+   à MySql.Data.MySqlClient.Statement.InternalBindParameters(String sql, MySqlParameterCollection parameters, MySqlPacket packet)
+   à MySql.Data.MySqlClient.Statement.BindParameters()
+   à MySql.Data.MySqlClient.PreparableStatement.Execute()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à db.Database.GetArenaLeaderboards(String type, Account acc) dans G:\ezpserver\Cake's Domain\db\Database.cs:ligne 1099
+   à server.arena.getRecords.HandleRequest() dans G:\ezpserver\Cake's Domain\server\arena\getRecords.cs:ligne 30
+   à server.RequestHandler.HandleRequest(HttpListenerContext context) dans G:\ezpserver\Cake's Domain\server\RequestHandlers.cs:ligne 38
+   à server.Program.ProcessRequest(HttpListenerContext context) dans G:\ezpserver\Cake's Domain\server\Program.cs:ligne 156
+2018-07-31 18:24:58,267 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-07-31 20:15:24,612 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-07-31 20:19:35,385 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-07-31 20:22:49,994 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-07-31 20:22:51,655 [3] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-07-31 23:20:49,806 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-07-31 23:31:36,506 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-07-31 23:32:53,441 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-07-31 23:32:55,108 [6] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-07-31 23:48:10,317 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-07-31 23:48:11,817 [3] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-07-31 23:56:38,252 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-01 00:02:34,474 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-01 00:02:35,837 [6] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-08-01 10:37:06,716 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-01 11:23:01,997 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-01 12:39:25,580 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-01 13:11:12,381 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-01 13:32:44,414 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-01 13:50:09,810 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-01 14:24:08,136 [13] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-08-01 14:24:22,677 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-01 14:24:24,361 [6] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-08-06 10:57:30,832 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-06 10:57:30,918 [Entry] WARN  db.data.XmlData - 'Musketeer' and 'Ninja' has the same ID of 0x0326!
+2018-08-06 10:58:06,740 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-06 11:01:38,568 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-06 11:03:02,036 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-07 22:13:04,981 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 14:08:37,322 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 14:08:37,357 [Entry] WARN  db.data.XmlData - 'Deep Sea Blast' and 'Magma Dagger' has the same ID of 0x0089!
+2018-08-08 14:11:54,600 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 14:11:54,658 [Entry] WARN  db.data.XmlData - 'Wooden Wall Tutorial' and 'Magma Dagger' has the same ID of 0x0200!
+2018-08-08 14:11:56,097 [6] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-08-08 14:12:56,876 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 14:12:56,935 [Entry] WARN  db.data.XmlData - 'Spider Silk' and 'Magma Dagger' has the same ID of 0x1800!
+2018-08-08 14:12:59,037 [6] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-08-08 14:14:57,499 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 14:14:57,557 [Entry] WARN  db.data.XmlData - 'Spider Silk' and 'Magma Dagger' has the same ID of 0x1800!
+2018-08-08 14:14:58,941 [3] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-08-08 14:16:14,232 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 14:16:15,566 [6] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-08-08 14:22:02,877 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 14:27:24,514 [8] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-08-08 14:27:35,822 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 14:29:49,659 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 14:29:50,908 [3] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-08-08 15:55:25,711 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 07:02:33,579 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 07:02:44,314 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 07:12:13,218 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 07:12:13,356 [Entry] ERROR Server - Port 80 is occupied. Can't start listening...
+Press ESC to exit.
+2018-08-08 07:13:02,967 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 07:13:11,501 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 07:21:58,321 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 07:21:59,816 [6] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-08-08 07:23:32,063 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 07:52:25,143 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 10:58:54,467 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-08 11:10:54,625 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 00:07:52,348 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 00:18:33,218 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 00:22:27,770 [8] ERROR Server - MySql.Data.MySqlClient.MySqlException (0x80004005): Invalid attempt to access a field before calling Read()
+   at MySql.Data.MySqlClient.ResultSet.get_Item(Int32 index)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetDateTime(Int32 i)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetDateTime(String column)
+   at server.char.fame.HandleRequest() in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\char\fame.cs:line 33
+   at server.RequestHandler.HandleRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\RequestHandlers.cs:line 38
+   at server.Program.ProcessRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\Program.cs:line 156
+2018-08-09 00:50:42,559 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 01:23:51,320 [3] ERROR Server - MySql.Data.MySqlClient.MySqlException (0x80004005): Invalid attempt to access a field before calling Read()
+   at MySql.Data.MySqlClient.ResultSet.get_Item(Int32 index)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetDateTime(Int32 i)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetDateTime(String column)
+   at server.char.fame.HandleRequest() in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\char\fame.cs:line 33
+   at server.RequestHandler.HandleRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\RequestHandlers.cs:line 38
+   at server.Program.ProcessRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\Program.cs:line 156
+2018-08-09 02:25:42,256 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 02:27:08,625 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 02:30:25,903 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 03:06:28,168 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 03:07:33,312 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 03:14:26,232 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 03:25:34,352 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 03:37:18,481 [14] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-09 03:37:18,481 [11] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-09 03:37:18,482 [20] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-09 03:37:18,481 [21] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-09 03:37:18,486 [13] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-09 03:37:18,481 [19] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-09 03:37:18,486 [17] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-09 03:37:18,999 [14] ERROR Server - System.Net.HttpListenerException (0x80004005): The specified network name is no longer available
+   at System.Net.HttpResponseStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Xml.XmlUtf8RawTextWriter.FlushBuffer()
+   at System.Xml.XmlUtf8RawTextWriter.Flush()
+   at System.Xml.XmlWellFormedWriter.Flush()
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces, String encodingStyle, String id)
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces)
+   at server.char.list.HandleRequest() in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\char\list.cs:line 106
+   at server.RequestHandler.HandleRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\RequestHandlers.cs:line 38
+   at server.Program.ProcessRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\Program.cs:line 156
+2018-08-09 03:37:19,005 [13] ERROR Server - System.Net.HttpListenerException (0x80004005): The specified network name is no longer available
+   at System.Net.HttpResponseStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Xml.XmlUtf8RawTextWriter.FlushBuffer()
+   at System.Xml.XmlUtf8RawTextWriter.Flush()
+   at System.Xml.XmlWellFormedWriter.Flush()
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces, String encodingStyle, String id)
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces)
+   at server.char.list.HandleRequest() in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\char\list.cs:line 106
+   at server.RequestHandler.HandleRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\RequestHandlers.cs:line 38
+   at server.Program.ProcessRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\Program.cs:line 156
+2018-08-09 03:37:18,999 [21] ERROR Server - System.Net.HttpListenerException (0x80004005): The specified network name is no longer available
+   at System.Net.HttpResponseStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Xml.XmlUtf8RawTextWriter.FlushBuffer()
+   at System.Xml.XmlUtf8RawTextWriter.Flush()
+   at System.Xml.XmlWellFormedWriter.Flush()
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces, String encodingStyle, String id)
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces)
+   at server.char.list.HandleRequest() in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\char\list.cs:line 106
+   at server.RequestHandler.HandleRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\RequestHandlers.cs:line 38
+   at server.Program.ProcessRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\Program.cs:line 156
+2018-08-09 03:37:18,999 [17] ERROR Server - System.Net.HttpListenerException (0x80004005): The specified network name is no longer available
+   at System.Net.HttpResponseStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Xml.XmlUtf8RawTextWriter.FlushBuffer()
+   at System.Xml.XmlUtf8RawTextWriter.Flush()
+   at System.Xml.XmlWellFormedWriter.Flush()
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces, String encodingStyle, String id)
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces)
+   at server.char.list.HandleRequest() in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\char\list.cs:line 106
+   at server.RequestHandler.HandleRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\RequestHandlers.cs:line 38
+   at server.Program.ProcessRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\Program.cs:line 156
+2018-08-09 03:37:19,005 [11] ERROR Server - System.Net.HttpListenerException (0x80004005): The specified network name is no longer available
+   at System.Net.HttpResponseStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Xml.XmlUtf8RawTextWriter.FlushBuffer()
+   at System.Xml.XmlUtf8RawTextWriter.Flush()
+   at System.Xml.XmlWellFormedWriter.Flush()
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces, String encodingStyle, String id)
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces)
+   at server.char.list.HandleRequest() in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\char\list.cs:line 106
+   at server.RequestHandler.HandleRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\RequestHandlers.cs:line 38
+   at server.Program.ProcessRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\server\Program.cs:line 156
+2018-08-09 03:37:28,232 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 03:52:18,382 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 04:13:25,594 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 04:16:35,345 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-09 23:41:26,306 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 00:15:32,065 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 01:22:07,575 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 01:23:46,233 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 01:23:59,330 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 01:24:05,924 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 01:24:55,378 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 01:24:55,480 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 01:27:06,407 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 01:27:06,487 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 03:18:31,526 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 03:18:31,627 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 03:19:23,423 [8] ERROR Server - MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '}, 32853, 0, 2, 70, '405, 408, 409', '1,1,1', '0,0,0')' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at db.Database.Register(String uuid, String password, Boolean isGuest, XmlData data) in C:\Users\developper\Documents\Projets\rotmg\db\Database.cs:line 310
+   at server.account.register.HandleRequest() in C:\Users\developper\Documents\Projets\rotmg\server\account\register.cs:line 71
+   at server.RequestHandler.HandleRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\rotmg\server\RequestHandlers.cs:line 38
+   at server.Program.ProcessRequest(HttpListenerContext context) in C:\Users\developper\Documents\Projets\rotmg\server\Program.cs:line 156
+2018-08-10 03:24:28,809 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 03:24:28,898 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 03:30:28,010 [10] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-10 03:34:17,911 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 03:34:18,037 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 03:34:19,515 [3] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-10 03:35:55,602 [3] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-10 03:36:05,053 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 03:36:05,150 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 03:37:02,085 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 03:37:02,158 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 03:39:04,145 [3] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-10 03:39:53,852 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 03:39:53,940 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 03:44:03,860 [6] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-10 08:11:12,231 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 08:11:12,309 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 08:16:07,414 [8] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-10 08:16:07,608 [7] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-10 08:27:26,654 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 08:27:26,734 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 08:36:13,609 [10] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-10 08:36:22,155 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 08:36:22,256 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 10:42:12,344 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 10:42:12,478 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 10:54:56,871 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 10:54:56,944 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 10:54:58,472 [3] ERROR Server - Not supported server detected: 
+Host: 25.59.144.193
+Port: 2050
+2018-08-10 11:08:52,774 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 11:08:52,851 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 11:11:07,688 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 11:11:07,771 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 11:14:14,373 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 11:14:14,452 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 11:46:50,006 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-10 11:46:50,088 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-10 12:06:22,371 [6] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2018-08-11 00:40:28,384 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-11 00:40:28,464 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-11 00:49:48,048 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-11 00:49:48,154 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-11 01:05:06,376 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-11 01:05:06,498 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!
+2018-08-13 06:10:39,729 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2018-08-13 06:10:39,821 [Entry] WARN  db.data.XmlData - 'Plague Poison' and 'XP Booster 20 min' has the same ID of 0x0c6b!

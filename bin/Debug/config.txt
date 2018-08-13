@@ -1,0 +1,7 @@
+5000
+
+1800000 = 30 minutes
+2700000 = 45 minutes
+3600000 = 60 minutes
+
+Line one is how many seconds before restart

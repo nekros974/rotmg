@@ -1,0 +1,181 @@
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\data\Addition.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\data\dat0.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\data\dat1.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\data\EquipmentSets.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\bannednames.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\texture\dark_fire.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\texture\firey_floor.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\UnlockedAccounts.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\AdminPanel.exe.config
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\AdminPanel.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\AdminPanel.pdb
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\AdminPanel\obj\Debug\AdminPanel.AddItemForm.resources
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\AdminPanel\obj\Debug\AdminPanel.AdminPanel.resources
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\AdminPanel\obj\Debug\AdminPanel.CreatePackage.resources
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\AdminPanel\obj\Debug\AdminPanel.DatabaseView.resources
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\AdminPanel\obj\Debug\AdminPanel.EditForm.resources
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\AdminPanel\obj\Debug\AdminPanel.Login.resources
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\AdminPanel\obj\Debug\AdminPanel.pdb
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\data\Addition.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\data\dat0.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\data\dat1.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\data\EquipmentSets.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\bannednames.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\texture\dark_fire.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\texture\firey_floor.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\texture\fire_mystic_shot.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\texture\forgotten_archmage_of_flame.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\texture\staff_of_the_abyss.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\UnlockedAccounts.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\AdminPanel.exe.config
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\AdminPanel.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\AdminPanel.pdb
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\AdminPanel\obj\Debug\AdminPanel.AddItemForm.resources
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\AdminPanel\obj\Debug\AdminPanel.AdminPanel.resources
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\AdminPanel\obj\Debug\AdminPanel.CreatePackage.resources
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\AdminPanel\obj\Debug\AdminPanel.DatabaseView.resources
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\AdminPanel\obj\Debug\AdminPanel.EditForm.resources
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\AdminPanel\obj\Debug\AdminPanel.Login.resources
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\AdminPanel\obj\Debug\AdminPanel.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\AdminPanel\obj\Debug\AdminPanel.pdb
+F:\Cake's Domain\bin\Debug\data\Addition.xml
+F:\Cake's Domain\bin\Debug\data\dat0.xml
+F:\Cake's Domain\bin\Debug\data\dat1.xml
+F:\Cake's Domain\bin\Debug\data\EquipmentSets.xml
+F:\Cake's Domain\bin\Debug\bannednames.txt
+F:\Cake's Domain\bin\Debug\texture\dark_fire.png
+F:\Cake's Domain\bin\Debug\texture\firey_floor.png
+F:\Cake's Domain\bin\Debug\texture\fire_mystic_shot.png
+F:\Cake's Domain\bin\Debug\texture\forgotten_archmage_of_flame.png
+F:\Cake's Domain\bin\Debug\texture\staff_of_the_abyss.png
+F:\Cake's Domain\bin\Debug\UnlockedAccounts.txt
+F:\Cake's Domain\bin\Debug\AdminPanel.exe.config
+F:\Cake's Domain\bin\Debug\AdminPanel.exe
+F:\Cake's Domain\bin\Debug\AdminPanel.pdb
+F:\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+F:\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.AddItemForm.resources
+F:\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.AdminPanel.resources
+F:\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.CreatePackage.resources
+F:\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.DatabaseView.resources
+F:\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.EditForm.resources
+F:\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.Login.resources
+F:\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+F:\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
+F:\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.exe
+F:\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.pdb
+G:\ezpserver\Cake's Domain\bin\Debug\data\Addition.xml
+G:\ezpserver\Cake's Domain\bin\Debug\data\dat0.xml
+G:\ezpserver\Cake's Domain\bin\Debug\data\dat1.xml
+G:\ezpserver\Cake's Domain\bin\Debug\data\EquipmentSets.xml
+G:\ezpserver\Cake's Domain\bin\Debug\bannednames.txt
+G:\ezpserver\Cake's Domain\bin\Debug\texture\dark_fire.png
+G:\ezpserver\Cake's Domain\bin\Debug\texture\firey_floor.png
+G:\ezpserver\Cake's Domain\bin\Debug\texture\fire_mystic_shot.png
+G:\ezpserver\Cake's Domain\bin\Debug\texture\forgotten_archmage_of_flame.png
+G:\ezpserver\Cake's Domain\bin\Debug\texture\staff_of_the_abyss.png
+G:\ezpserver\Cake's Domain\bin\Debug\UnlockedAccounts.txt
+G:\ezpserver\Cake's Domain\bin\Debug\AdminPanel.exe.config
+G:\ezpserver\Cake's Domain\bin\Debug\AdminPanel.exe
+G:\ezpserver\Cake's Domain\bin\Debug\AdminPanel.pdb
+G:\ezpserver\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+G:\ezpserver\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.AddItemForm.resources
+G:\ezpserver\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.AdminPanel.resources
+G:\ezpserver\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.CreatePackage.resources
+G:\ezpserver\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.DatabaseView.resources
+G:\ezpserver\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.EditForm.resources
+G:\ezpserver\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.Login.resources
+G:\ezpserver\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+G:\ezpserver\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
+G:\ezpserver\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.exe
+G:\ezpserver\Cake's Domain\AdminPanel\obj\Debug\AdminPanel.pdb
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\data\Addition.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\data\dat0.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\data\dat1.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\data\EquipmentSets.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\bannednames.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\texture\dark_fire.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\texture\firey_floor.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\UnlockedAccounts.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\AdminPanel.exe.config
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\AdminPanel.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\AdminPanel.pdb
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\AdminPanel\obj\Debug\AdminPanel.csprojAssemblyReference.cache
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\AdminPanel\obj\Debug\AdminPanel.AddItemForm.resources
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\AdminPanel\obj\Debug\AdminPanel.AdminPanel.resources
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\AdminPanel\obj\Debug\AdminPanel.CreatePackage.resources
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\AdminPanel\obj\Debug\AdminPanel.DatabaseView.resources
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\AdminPanel\obj\Debug\AdminPanel.EditForm.resources
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\AdminPanel\obj\Debug\AdminPanel.Login.resources
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\AdminPanel\obj\Debug\AdminPanel.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\data\Addition.xml
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\data\dat0.xml
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\data\dat1.xml
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\data\EquipmentSets.xml
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\bannednames.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\texture\dark_fire.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\texture\firey_floor.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\UnlockedAccounts.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\AdminPanel.exe.config
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\AdminPanel.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\AdminPanel.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\AdminPanel\obj\Debug\AdminPanel.AddItemForm.resources
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\AdminPanel\obj\Debug\AdminPanel.AdminPanel.resources
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\AdminPanel\obj\Debug\AdminPanel.CreatePackage.resources
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\AdminPanel\obj\Debug\AdminPanel.DatabaseView.resources
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\AdminPanel\obj\Debug\AdminPanel.EditForm.resources
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\AdminPanel\obj\Debug\AdminPanel.Login.resources
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\AdminPanel\obj\Debug\AdminPanel.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\AdminPanel\obj\Debug\AdminPanel.csprojAssemblyReference.cache
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\data\Addition.xml
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\data\dat0.xml
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\data\dat1.xml
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\data\EquipmentSets.xml
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\bannednames.txt
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\texture\dark_fire.png
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\texture\firey_floor.png
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\UnlockedAccounts.txt
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\AdminPanel.exe.config
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\AdminPanel.exe
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\AdminPanel.pdb
+C:\Users\developper\Documents\Projets\rotmg\AdminPanel\obj\Debug\AdminPanel.csprojAssemblyReference.cache
+C:\Users\developper\Documents\Projets\rotmg\AdminPanel\obj\Debug\AdminPanel.AddItemForm.resources
+C:\Users\developper\Documents\Projets\rotmg\AdminPanel\obj\Debug\AdminPanel.AdminPanel.resources
+C:\Users\developper\Documents\Projets\rotmg\AdminPanel\obj\Debug\AdminPanel.CreatePackage.resources
+C:\Users\developper\Documents\Projets\rotmg\AdminPanel\obj\Debug\AdminPanel.DatabaseView.resources
+C:\Users\developper\Documents\Projets\rotmg\AdminPanel\obj\Debug\AdminPanel.EditForm.resources
+C:\Users\developper\Documents\Projets\rotmg\AdminPanel\obj\Debug\AdminPanel.Login.resources
+C:\Users\developper\Documents\Projets\rotmg\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\developper\Documents\Projets\rotmg\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\developper\Documents\Projets\rotmg\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\developper\Documents\Projets\rotmg\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete
+C:\Users\developper\Documents\Projets\rotmg\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\developper\Documents\Projets\rotmg\AdminPanel\obj\Debug\AdminPanel.pdb

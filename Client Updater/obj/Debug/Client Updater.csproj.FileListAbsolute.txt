@@ -1,0 +1,800 @@
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\60fps.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\autoaim.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\autoaimcall.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\autoaimnotif.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\autoaimshootfix.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\autonexus.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\drv2_dispatch.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\drv2_save.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\drv2_var.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\eventnotifier.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\forcelq.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\friendlist_locklist.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\friendlist_minimap.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\friendlist_player.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\fsv2_1.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\fsv2_10.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\fsv2_11.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\fsv2_12.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\fsv2_2.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\fsv2_3.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\fsv2_4.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\fsv2_5.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\fsv2_6.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\fsv2_7.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\fsv2_8.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\fsv2_9.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\hideplayers.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\hideshadows.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\hpbar.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\inv_addprops.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\inv_addstats.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\inv_add_inventory.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\inv_adjust_text.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\inv_drawbars.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\inv_localcount.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\inv_make_xp_fame_bars.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\inv_patchstats.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\noally.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\noclip.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\noss.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\passescover.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\proxyserver_add.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\proxyserver_func.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\questbar_draw.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\questbar_init.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\questbar_trait.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\realmeye_addmenu.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\realmeye_func.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\realmeye_sbmod.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\realmeye_sbparams.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\roundjitter.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\safewalk.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\swap_call.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\swap_funcs.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\swnoslow.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\mods\swspeed.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\Orape.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\Orape.jar
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\abcexport.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\abcreplace.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\liblzma.dll
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\rabcasm.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\rabcdasm.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\rabcdasm_easy.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\swf7zcompress.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\swfbinexport.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\swfbinreplace.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\swfdecompress.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\swflzmacompress.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\config.ini
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\Orape.cmd
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\Orape.command
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\01.bat
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\02.bat
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\03 xml export.bat
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\abcexport.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\abcfile.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\abcreplace.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\asasm.hrc
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\asprogram.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\assembler.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\autodata.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\build_rabcdasm.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\CHANGELOG.md
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\common.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\COPYING
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\disassembler.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\liblzma.lib
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\lzma.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\main.o
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\Makefile.win
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\murmurhash2a.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\rabcasm.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\rabcdasm.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\README.md
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\swf7zcompress.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\swfbinexport.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\swfbinreplace.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\swfdecompress.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\swffile.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\swflzmacompress.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\rabcdasm\zlibx.d
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\Client Updater.exe.config
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\Client Updater.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\Client Updater.pdb
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\MetroFramework.Design.dll
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\MetroFramework.dll
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\obj\Debug\Client_Updater.Form1.resources
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\obj\Debug\Client_Updater.Properties.Resources.resources
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\obj\Debug\Client Updater.csproj.GenerateResource.Cache
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\obj\Debug\Client Updater.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\Client Updater\obj\Debug\Client Updater.pdb
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\60fps.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\autoaim.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\autoaimcall.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\autoaimnotif.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\autoaimshootfix.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\autonexus.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\drv2_dispatch.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\drv2_save.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\drv2_var.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\eventnotifier.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\forcelq.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\friendlist_locklist.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\friendlist_minimap.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\friendlist_player.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\fsv2_1.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\fsv2_10.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\fsv2_11.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\fsv2_12.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\fsv2_2.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\fsv2_3.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\fsv2_4.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\fsv2_5.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\fsv2_6.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\fsv2_7.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\fsv2_8.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\fsv2_9.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\hideplayers.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\hideshadows.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\hpbar.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\inv_addprops.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\inv_addstats.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\inv_add_inventory.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\inv_adjust_text.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\inv_drawbars.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\inv_localcount.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\inv_make_xp_fame_bars.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\inv_patchstats.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\noally.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\noclip.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\noss.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\passescover.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\proxyserver_add.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\proxyserver_func.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\questbar_draw.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\questbar_init.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\questbar_trait.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\realmeye_addmenu.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\realmeye_func.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\realmeye_sbmod.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\realmeye_sbparams.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\roundjitter.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\safewalk.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\swap_call.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\swap_funcs.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\swnoslow.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\mods\swspeed.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\Orape.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\Orape.jar
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\abcexport.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\abcreplace.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\liblzma.dll
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\rabcasm.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\rabcdasm.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\rabcdasm_easy.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\swf7zcompress.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\swfbinexport.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\swfbinreplace.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\swfdecompress.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\swflzmacompress.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\config.ini
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\Orape.cmd
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\Orape.command
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\01.bat
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\02.bat
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\03 xml export.bat
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\abcexport.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\abcfile.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\abcreplace.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\asasm.hrc
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\asprogram.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\assembler.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\autodata.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\build_rabcdasm.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\CHANGELOG.md
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\common.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\COPYING
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\disassembler.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\liblzma.lib
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\lzma.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\main.o
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\Makefile.win
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\murmurhash2a.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\rabcasm.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\rabcdasm.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\README.md
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\swf7zcompress.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\swfbinexport.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\swfbinreplace.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\swfdecompress.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\swffile.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\swflzmacompress.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\rabcdasm\zlibx.d
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\Client Updater.exe.config
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\Client Updater.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\Client Updater.pdb
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\MetroFramework.Design.dll
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\MetroFramework.dll
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\bin\Debug\MetroFramework.Fonts.dll
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\obj\Debug\Client_Updater.Form1.resources
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\obj\Debug\Client_Updater.Properties.Resources.resources
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\obj\Debug\Client Updater.csproj.GenerateResource.Cache
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\obj\Debug\Client Updater.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\Client Updater\obj\Debug\Client Updater.pdb
+F:\Cake's Domain\Client Updater\bin\Debug\mods\60fps.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\autoaim.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\autoaimcall.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\autoaimnotif.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\autoaimshootfix.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\autonexus.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\drv2_dispatch.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\drv2_save.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\drv2_var.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\eventnotifier.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\forcelq.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\friendlist_locklist.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\friendlist_minimap.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\friendlist_player.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_1.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_10.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_11.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_12.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_2.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_3.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_4.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_5.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_6.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_7.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_8.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_9.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\hideplayers.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\hideshadows.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\hpbar.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\inv_addprops.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\inv_addstats.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\inv_add_inventory.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\inv_adjust_text.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\inv_drawbars.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\inv_localcount.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\inv_make_xp_fame_bars.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\inv_patchstats.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\noally.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\noclip.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\noss.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\passescover.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\proxyserver_add.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\proxyserver_func.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\questbar_draw.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\questbar_init.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\questbar_trait.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\realmeye_addmenu.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\realmeye_func.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\realmeye_sbmod.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\realmeye_sbparams.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\roundjitter.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\safewalk.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\swap_call.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\swap_funcs.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\swnoslow.txt
+F:\Cake's Domain\Client Updater\bin\Debug\mods\swspeed.txt
+F:\Cake's Domain\Client Updater\bin\Debug\Orape.exe
+F:\Cake's Domain\Client Updater\bin\Debug\Orape.jar
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\abcexport.exe
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\abcreplace.exe
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\liblzma.dll
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\rabcasm.exe
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\rabcdasm.exe
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\rabcdasm_easy.exe
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swf7zcompress.exe
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swfbinexport.exe
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swfbinreplace.exe
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swfdecompress.exe
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swflzmacompress.exe
+F:\Cake's Domain\Client Updater\bin\Debug\config.ini
+F:\Cake's Domain\Client Updater\bin\Debug\Orape.cmd
+F:\Cake's Domain\Client Updater\bin\Debug\Orape.command
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\01.bat
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\02.bat
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\03 xml export.bat
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\abcexport.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\abcfile.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\abcreplace.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\asasm.hrc
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\asprogram.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\assembler.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\autodata.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\build_rabcdasm.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\CHANGELOG.md
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\common.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\COPYING
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\disassembler.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\liblzma.lib
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\lzma.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\main.o
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\Makefile.win
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\murmurhash2a.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\rabcasm.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\rabcdasm.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\README.md
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swf7zcompress.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swfbinexport.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swfbinreplace.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swfdecompress.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swffile.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swflzmacompress.d
+F:\Cake's Domain\Client Updater\bin\Debug\rabcdasm\zlibx.d
+F:\Cake's Domain\Client Updater\bin\Debug\Client Updater.exe.config
+F:\Cake's Domain\Client Updater\bin\Debug\Client Updater.exe
+F:\Cake's Domain\Client Updater\bin\Debug\Client Updater.pdb
+F:\Cake's Domain\Client Updater\bin\Debug\MetroFramework.Design.dll
+F:\Cake's Domain\Client Updater\bin\Debug\MetroFramework.dll
+F:\Cake's Domain\Client Updater\bin\Debug\MetroFramework.Fonts.dll
+F:\Cake's Domain\Client Updater\obj\Debug\Client Updater.csprojResolveAssemblyReference.cache
+F:\Cake's Domain\Client Updater\obj\Debug\Client_Updater.Form1.resources
+F:\Cake's Domain\Client Updater\obj\Debug\Client_Updater.Properties.Resources.resources
+F:\Cake's Domain\Client Updater\obj\Debug\Client Updater.csproj.GenerateResource.Cache
+F:\Cake's Domain\Client Updater\obj\Debug\Client Updater.exe
+F:\Cake's Domain\Client Updater\obj\Debug\Client Updater.pdb
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\60fps.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\autoaim.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\autoaimcall.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\autoaimnotif.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\autoaimshootfix.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\autonexus.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\drv2_dispatch.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\drv2_save.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\drv2_var.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\eventnotifier.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\forcelq.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\friendlist_locklist.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\friendlist_minimap.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\friendlist_player.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_1.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_10.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_11.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_12.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_2.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_3.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_4.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_5.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_6.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_7.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_8.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\fsv2_9.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\hideplayers.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\hideshadows.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\hpbar.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\inv_addprops.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\inv_addstats.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\inv_add_inventory.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\inv_adjust_text.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\inv_drawbars.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\inv_localcount.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\inv_make_xp_fame_bars.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\inv_patchstats.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\noally.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\noclip.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\noss.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\passescover.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\proxyserver_add.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\proxyserver_func.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\questbar_draw.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\questbar_init.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\questbar_trait.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\realmeye_addmenu.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\realmeye_func.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\realmeye_sbmod.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\realmeye_sbparams.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\roundjitter.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\safewalk.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\swap_call.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\swap_funcs.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\swnoslow.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\mods\swspeed.txt
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\Orape.exe
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\Orape.jar
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\abcexport.exe
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\abcreplace.exe
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\liblzma.dll
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\rabcasm.exe
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\rabcdasm.exe
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\rabcdasm_easy.exe
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swf7zcompress.exe
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swfbinexport.exe
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swfbinreplace.exe
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swfdecompress.exe
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swflzmacompress.exe
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\config.ini
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\Orape.cmd
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\Orape.command
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\01.bat
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\02.bat
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\03 xml export.bat
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\abcexport.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\abcfile.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\abcreplace.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\asasm.hrc
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\asprogram.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\assembler.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\autodata.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\build_rabcdasm.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\CHANGELOG.md
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\common.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\COPYING
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\disassembler.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\liblzma.lib
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\lzma.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\main.o
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\Makefile.win
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\murmurhash2a.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\rabcasm.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\rabcdasm.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\README.md
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swf7zcompress.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swfbinexport.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swfbinreplace.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swfdecompress.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swffile.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\swflzmacompress.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\rabcdasm\zlibx.d
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\Client Updater.exe.config
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\Client Updater.exe
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\Client Updater.pdb
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\MetroFramework.Design.dll
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\MetroFramework.dll
+G:\ezpserver\Cake's Domain\Client Updater\bin\Debug\MetroFramework.Fonts.dll
+G:\ezpserver\Cake's Domain\Client Updater\obj\Debug\Client_Updater.Form1.resources
+G:\ezpserver\Cake's Domain\Client Updater\obj\Debug\Client_Updater.Properties.Resources.resources
+G:\ezpserver\Cake's Domain\Client Updater\obj\Debug\Client Updater.csproj.GenerateResource.Cache
+G:\ezpserver\Cake's Domain\Client Updater\obj\Debug\Client Updater.exe
+G:\ezpserver\Cake's Domain\Client Updater\obj\Debug\Client Updater.pdb
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\60fps.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\autoaim.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\autoaimcall.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\autoaimnotif.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\autoaimshootfix.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\autonexus.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\drv2_dispatch.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\drv2_save.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\drv2_var.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\eventnotifier.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\forcelq.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\friendlist_locklist.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\friendlist_minimap.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\friendlist_player.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\fsv2_1.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\fsv2_10.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\fsv2_11.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\fsv2_12.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\fsv2_2.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\fsv2_3.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\fsv2_4.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\fsv2_5.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\fsv2_6.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\fsv2_7.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\fsv2_8.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\fsv2_9.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\hideplayers.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\hideshadows.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\hpbar.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\inv_addprops.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\inv_addstats.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\inv_add_inventory.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\inv_adjust_text.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\inv_drawbars.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\inv_localcount.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\inv_make_xp_fame_bars.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\inv_patchstats.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\noally.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\noclip.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\noss.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\passescover.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\proxyserver_add.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\proxyserver_func.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\questbar_draw.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\questbar_init.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\questbar_trait.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\realmeye_addmenu.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\realmeye_func.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\realmeye_sbmod.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\realmeye_sbparams.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\roundjitter.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\safewalk.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\swap_call.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\swap_funcs.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\swnoslow.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\mods\swspeed.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\Orape.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\Orape.jar
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\abcexport.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\abcreplace.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\liblzma.dll
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\rabcasm.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\rabcdasm.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\rabcdasm_easy.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\swf7zcompress.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\swfbinexport.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\swfbinreplace.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\swfdecompress.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\swflzmacompress.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\config.ini
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\Orape.cmd
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\Orape.command
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\01.bat
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\02.bat
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\03 xml export.bat
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\abcexport.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\abcfile.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\abcreplace.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\asasm.hrc
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\asprogram.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\assembler.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\autodata.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\build_rabcdasm.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\CHANGELOG.md
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\common.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\COPYING
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\disassembler.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\liblzma.lib
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\lzma.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\main.o
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\Makefile.win
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\murmurhash2a.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\rabcasm.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\rabcdasm.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\README.md
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\swf7zcompress.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\swfbinexport.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\swfbinreplace.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\swfdecompress.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\swffile.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\swflzmacompress.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\rabcdasm\zlibx.d
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\Client Updater.exe.config
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\Client Updater.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\Client Updater.pdb
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\MetroFramework.dll
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\obj\Debug\Client_Updater.Form1.resources
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\obj\Debug\Client_Updater.Properties.Resources.resources
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\obj\Debug\Client Updater.csproj.GenerateResource.cache
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\obj\Debug\Client Updater.csproj.CoreCompileInputs.cache
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\obj\Debug\Client Updater.csproj.CopyComplete
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\obj\Debug\Client Updater.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\Client Updater\obj\Debug\Client Updater.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\60fps.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\autoaim.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\autoaimcall.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\autoaimnotif.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\autoaimshootfix.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\autonexus.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\drv2_dispatch.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\drv2_save.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\drv2_var.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\eventnotifier.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\forcelq.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\friendlist_locklist.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\friendlist_minimap.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\friendlist_player.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\fsv2_1.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\fsv2_10.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\fsv2_11.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\fsv2_12.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\fsv2_2.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\fsv2_3.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\fsv2_4.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\fsv2_5.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\fsv2_6.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\fsv2_7.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\fsv2_8.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\fsv2_9.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\hideplayers.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\hideshadows.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\hpbar.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\inv_addprops.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\inv_addstats.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\inv_add_inventory.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\inv_adjust_text.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\inv_drawbars.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\inv_localcount.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\inv_make_xp_fame_bars.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\inv_patchstats.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\noally.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\noclip.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\noss.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\passescover.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\proxyserver_add.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\proxyserver_func.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\questbar_draw.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\questbar_init.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\questbar_trait.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\realmeye_addmenu.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\realmeye_func.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\realmeye_sbmod.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\realmeye_sbparams.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\roundjitter.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\safewalk.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\swap_call.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\swap_funcs.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\swnoslow.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\mods\swspeed.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\Orape.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\Orape.jar
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\abcexport.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\abcreplace.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\liblzma.dll
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\rabcasm.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\rabcdasm.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\rabcdasm_easy.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\swf7zcompress.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\swfbinexport.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\swfbinreplace.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\swfdecompress.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\swflzmacompress.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\config.ini
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\Orape.cmd
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\Orape.command
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\01.bat
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\02.bat
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\03 xml export.bat
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\abcexport.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\abcfile.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\abcreplace.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\asasm.hrc
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\asprogram.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\assembler.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\autodata.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\build_rabcdasm.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\CHANGELOG.md
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\common.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\COPYING
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\disassembler.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\liblzma.lib
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\lzma.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\main.o
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\Makefile.win
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\murmurhash2a.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\rabcasm.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\rabcdasm.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\README.md
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\swf7zcompress.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\swfbinexport.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\swfbinreplace.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\swfdecompress.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\swffile.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\swflzmacompress.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\rabcdasm\zlibx.d
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\Client Updater.exe.config
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\Client Updater.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\Client Updater.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\MetroFramework.Design.dll
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\MetroFramework.dll
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\obj\Debug\Client_Updater.Form1.resources
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\obj\Debug\Client_Updater.Properties.Resources.resources
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\obj\Debug\Client Updater.csproj.GenerateResource.cache
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\obj\Debug\Client Updater.csproj.CoreCompileInputs.cache
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\obj\Debug\Client Updater.csproj.CopyComplete
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\obj\Debug\Client Updater.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\obj\Debug\Client Updater.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\Client Updater\obj\Debug\Client Updater.csprojAssemblyReference.cache
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\60fps.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\autoaim.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\autoaimcall.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\autoaimnotif.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\autoaimshootfix.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\autonexus.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\drv2_dispatch.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\drv2_save.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\drv2_var.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\eventnotifier.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\forcelq.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\friendlist_locklist.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\friendlist_minimap.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\friendlist_player.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\fsv2_1.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\fsv2_10.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\fsv2_11.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\fsv2_12.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\fsv2_2.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\fsv2_3.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\fsv2_4.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\fsv2_5.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\fsv2_6.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\fsv2_7.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\fsv2_8.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\fsv2_9.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\hideplayers.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\hideshadows.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\hpbar.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\inv_addprops.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\inv_addstats.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\inv_add_inventory.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\inv_adjust_text.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\inv_drawbars.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\inv_localcount.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\inv_make_xp_fame_bars.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\inv_patchstats.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\noally.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\noclip.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\noss.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\passescover.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\proxyserver_add.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\proxyserver_func.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\questbar_draw.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\questbar_init.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\questbar_trait.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\realmeye_addmenu.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\realmeye_func.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\realmeye_sbmod.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\realmeye_sbparams.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\roundjitter.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\safewalk.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\swap_call.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\swap_funcs.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\swnoslow.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\mods\swspeed.txt
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\Orape.exe
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\Orape.jar
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\abcexport.exe
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\abcreplace.exe
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\liblzma.dll
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\rabcasm.exe
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\rabcdasm.exe
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\rabcdasm_easy.exe
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\swf7zcompress.exe
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\swfbinexport.exe
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\swfbinreplace.exe
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\swfdecompress.exe
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\swflzmacompress.exe
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\config.ini
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\Orape.cmd
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\Orape.command
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\01.bat
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\02.bat
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\03 xml export.bat
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\abcexport.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\abcfile.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\abcreplace.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\asasm.hrc
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\asprogram.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\assembler.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\autodata.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\build_rabcdasm.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\CHANGELOG.md
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\common.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\COPYING
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\disassembler.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\liblzma.lib
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\lzma.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\main.o
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\Makefile.win
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\murmurhash2a.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\rabcasm.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\rabcdasm.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\README.md
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\swf7zcompress.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\swfbinexport.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\swfbinreplace.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\swfdecompress.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\swffile.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\swflzmacompress.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\rabcdasm\zlibx.d
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\Client Updater.exe.config
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\Client Updater.exe
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\Client Updater.pdb
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\MetroFramework.Design.dll
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\MetroFramework.dll
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\obj\Debug\Client_Updater.Form1.resources
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\obj\Debug\Client_Updater.Properties.Resources.resources
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\obj\Debug\Client Updater.csproj.GenerateResource.cache
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\obj\Debug\Client Updater.csproj.CoreCompileInputs.cache
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\obj\Debug\Client Updater.csproj.CopyComplete
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\obj\Debug\Client Updater.exe
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\obj\Debug\Client Updater.pdb
+C:\Users\developper\Documents\Projets\rotmg\Client Updater\obj\Debug\Client Updater.csprojAssemblyReference.cache

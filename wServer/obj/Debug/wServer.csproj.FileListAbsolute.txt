@@ -1,0 +1,139 @@
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\data\Addition.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\data\dat0.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\data\dat1.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\data\EquipmentSets.xml
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\bannednames.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\texture\dark_fire.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\texture\firey_floor.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\UnlockedAccounts.txt
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\log4net_wServer.config
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\wServer.cfg
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\wServer.exe.config
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\wServer.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\bin\Debug\wServer.pdb
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\wServer\obj\Debug\wServer.csprojResolveAssemblyReference.cache
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\wServer\obj\Debug\wServer.exe
+C:\Users\Namik\Desktop\Rotmg PServer\fabiano-swagger-of-doom-master\wServer\obj\Debug\wServer.pdb
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\data\Addition.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\data\dat0.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\data\dat1.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\data\EquipmentSets.xml
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\bannednames.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\texture\dark_fire.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\texture\firey_floor.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\texture\fire_mystic_shot.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\texture\forgotten_archmage_of_flame.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\texture\staff_of_the_abyss.png
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\UnlockedAccounts.txt
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\log4net_wServer.config
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\wServer.cfg
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\wServer.exe.config
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\wServer.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\bin\Debug\wServer.pdb
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\wServer\obj\Debug\wServer.csprojResolveAssemblyReference.cache
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\wServer\obj\Debug\wServer.exe
+F:\Blair\Pserver\Rotmg PServer\Gummy's Realm\wServer\obj\Debug\wServer.pdb
+F:\Cake's Domain\bin\Debug\data\Addition.xml
+F:\Cake's Domain\bin\Debug\data\dat0.xml
+F:\Cake's Domain\bin\Debug\data\dat1.xml
+F:\Cake's Domain\bin\Debug\data\EquipmentSets.xml
+F:\Cake's Domain\bin\Debug\bannednames.txt
+F:\Cake's Domain\bin\Debug\texture\dark_fire.png
+F:\Cake's Domain\bin\Debug\texture\firey_floor.png
+F:\Cake's Domain\bin\Debug\texture\fire_mystic_shot.png
+F:\Cake's Domain\bin\Debug\texture\forgotten_archmage_of_flame.png
+F:\Cake's Domain\bin\Debug\texture\staff_of_the_abyss.png
+F:\Cake's Domain\bin\Debug\UnlockedAccounts.txt
+F:\Cake's Domain\bin\Debug\log4net_wServer.config
+F:\Cake's Domain\bin\Debug\wServer.cfg
+F:\Cake's Domain\bin\Debug\wServer.exe.config
+F:\Cake's Domain\bin\Debug\wServer.exe
+F:\Cake's Domain\bin\Debug\wServer.pdb
+F:\Cake's Domain\wServer\obj\Debug\wServer.csprojResolveAssemblyReference.cache
+F:\Cake's Domain\wServer\obj\Debug\wServer.exe
+F:\Cake's Domain\wServer\obj\Debug\wServer.pdb
+G:\ezpserver\Cake's Domain\bin\Debug\data\Addition.xml
+G:\ezpserver\Cake's Domain\bin\Debug\data\dat0.xml
+G:\ezpserver\Cake's Domain\bin\Debug\data\dat1.xml
+G:\ezpserver\Cake's Domain\bin\Debug\data\EquipmentSets.xml
+G:\ezpserver\Cake's Domain\bin\Debug\bannednames.txt
+G:\ezpserver\Cake's Domain\bin\Debug\texture\dark_fire.png
+G:\ezpserver\Cake's Domain\bin\Debug\texture\firey_floor.png
+G:\ezpserver\Cake's Domain\bin\Debug\texture\fire_mystic_shot.png
+G:\ezpserver\Cake's Domain\bin\Debug\texture\forgotten_archmage_of_flame.png
+G:\ezpserver\Cake's Domain\bin\Debug\texture\staff_of_the_abyss.png
+G:\ezpserver\Cake's Domain\bin\Debug\UnlockedAccounts.txt
+G:\ezpserver\Cake's Domain\bin\Debug\log4net_wServer.config
+G:\ezpserver\Cake's Domain\bin\Debug\wServer.cfg
+G:\ezpserver\Cake's Domain\bin\Debug\wServer.exe.config
+G:\ezpserver\Cake's Domain\bin\Debug\wServer.exe
+G:\ezpserver\Cake's Domain\bin\Debug\wServer.pdb
+G:\ezpserver\Cake's Domain\wServer\obj\Debug\wServer.csprojResolveAssemblyReference.cache
+G:\ezpserver\Cake's Domain\wServer\obj\Debug\wServer.exe
+G:\ezpserver\Cake's Domain\wServer\obj\Debug\wServer.pdb
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\wServer\obj\Debug\wServer.csprojAssemblyReference.cache
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\wServer\obj\Debug\wServer.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\wServer\obj\Debug\wServer.pdb
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\log4net_wServer.config
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\wServer.cfg
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\data\Addition.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\data\dat0.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\data\dat1.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\data\EquipmentSets.xml
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\bannednames.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\texture\dark_fire.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\texture\firey_floor.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\UnlockedAccounts.txt
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\wServer.exe.config
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\wServer.exe
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\bin\Debug\wServer.pdb
+C:\Users\Kapitaine\Desktop\Cake's Domain\Cake's Domain 2.0\wServer\obj\Debug\wServer.csproj.CopyComplete
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\wServer\obj\Debug\wServer.csprojAssemblyReference.cache
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\wServer\obj\Debug\wServer.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\wServer\obj\Debug\wServer.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\log4net_wServer.config
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\wServer.cfg
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\data\Addition.xml
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\data\dat0.xml
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\data\dat1.xml
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\data\EquipmentSets.xml
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\bannednames.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\texture\dark_fire.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\texture\firey_floor.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\UnlockedAccounts.txt
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\wServer.exe.config
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\wServer.exe
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\bin\Debug\wServer.pdb
+C:\Users\developper\Documents\Projets\Cake_s Domain 2.0\wServer\obj\Debug\wServer.csproj.CopyComplete
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\data\Addition.xml
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\data\dat0.xml
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\data\dat1.xml
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\data\EquipmentSets.xml
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\bannednames.txt
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\texture\dark_fire.png
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\texture\firey_floor.png
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\texture\fire_mystic_shot.png
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\texture\forgotten_archmage_of_flame.png
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\texture\staff_of_the_abyss.png
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\UnlockedAccounts.txt
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\log4net_wServer.config
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\wServer.cfg
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\wServer.exe.config
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\wServer.exe
+C:\Users\developper\Documents\Projets\rotmg\bin\Debug\wServer.pdb
+C:\Users\developper\Documents\Projets\rotmg\wServer\obj\Debug\wServer.csprojAssemblyReference.cache
+C:\Users\developper\Documents\Projets\rotmg\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+C:\Users\developper\Documents\Projets\rotmg\wServer\obj\Debug\wServer.csproj.CopyComplete
+C:\Users\developper\Documents\Projets\rotmg\wServer\obj\Debug\wServer.exe
+C:\Users\developper\Documents\Projets\rotmg\wServer\obj\Debug\wServer.pdb
